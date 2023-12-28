@@ -17,5 +17,4 @@ class PalindromeNumber
         int num=121;
         System.out.println(isPalindrome(num));
     }
-    
 }
